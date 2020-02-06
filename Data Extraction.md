@@ -1,3 +1,7 @@
+---
+layout: default
+weight: 3
+---
 
 # Social Media Data Extraction and Analysis
 
