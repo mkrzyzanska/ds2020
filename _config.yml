@@ -53,3 +53,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
+	  name : Name Lastname
+	  email : blah@email.test
+	  github : username
+	  twitter : username
+	  feedburner : feedname
+
+production_url : http://mkrzyzanska.github.io/ds2020
+BASE_PATH : http://mkrzyzanska.github.io/ds2020
+
+markdown: kramdown
