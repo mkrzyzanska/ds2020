@@ -1,4 +1,7 @@
-
+---
+layout: default
+weight: 3
+---
 # Social Media Data Extraction and Analysis
 
 ## 6 February 2020, University of Cologne
