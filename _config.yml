@@ -46,3 +46,5 @@ plugins:
 #   - vendor/ruby/
 
 markdown: kramdown
+
+theme: jekyll-theme-minimal
